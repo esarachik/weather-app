@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint": "^5.4.0",
     "eslint-config-defaults": "^9.0.0",
     "eslint-plugin-react": "^7.9.1",
+    "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "react-weathericons": "^1.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
